@@ -13,7 +13,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [55.2708, 25.2048]
+         "coordinates": [
+                    -116.6355,
+                    33.4428333,
+                    3.48
+                ]
       },
       "id": "ci40236159"
       "properties": {
@@ -49,7 +53,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [55.2708, 25.2769]
+        "coordinates": [
+                    121.3593,
+                    -8.4901,
+                    164.346
+                ]
       },
       "id": "ci40236160"
       "properties": {
