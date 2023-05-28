@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+        "generated": 1685296594000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson",
+        "title": "USGS All Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 11398
+   },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.2708, 25.2048]
+      },
+      "id": "ci40236159"
+      "properties": {
+                "mag": 0.59,
+                "place": "13km SSE of Anza, CA",
+                "time": 1685295245980,
+                "updated": 1685295468184,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40236159",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40236159.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 5,
+                "net": "ci",
+                "code": "40236159",
+                "ids": ",ci40236159,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 23,
+                "dmin": 0.05874,
+                "rms": 0.2,
+                "gap": 104,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.6 - 13km SSE of Anza, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.2708, 25.2769]
+      },
+      "id": "ci40236160"
+      "properties": {
+                "mag": 0.94,
+                "place": "12km SSE of Anza, CA",
+                "time": 1685295037970,
+                "updated": 1685295250194,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40236151",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40236151.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 14,
+                "net": "ci",
+                "code": "40236151",
+                "ids": ",ci40236151,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 36,
+                "dmin": 0.05598,
+                "rms": 0.17,
+                "gap": 64,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.9 - 12km SSE of Anza, CA"
+      }
+    }
+  ]
+}
